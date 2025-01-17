@@ -140,6 +140,6 @@ Contributions are welcome! Please follow these steps:
 For questions or feedback, please contact:
 - **Name**: Samarth Pansare  
 - **Email**: samarth.pansare2002@gmail.com  
-- **GitHub**: [SamarthPansare](https://github.com/username)
+- **GitHub**: [Samarth Pansare](https://github.com/SamarthPansare)
 
 ---
